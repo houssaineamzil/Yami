@@ -1,0 +1,21 @@
+{
+    "name": "yami",
+    "displayName": "Yami",
+    "description": "Yami is a dark, minimalist theme I created using my own imagination. It supports coding languages like HTML, CSS, JS, and JSON, giving you everything you need to build amazing products for the Web.",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Yami",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Yami-color-theme.json"
+            }
+        ]
+    }
+}
