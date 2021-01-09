@@ -4,9 +4,9 @@
 </p>
 <h1 align="center">Framer Syntax</h1>
 
-<img src="https://github.com/houssaineamzil/Yami/raw/master/assets/screenshot-1.PNG" />
-<img src="https://github.com/houssaineamzil/Yami/raw/master/assets/screenshot-2.PNG" />
-<img src="https://github.com/houssaineamzil/Yami/raw/master/assets/screenshot-3.PNG" />
+<img src="https://github.com/houssaineamzil/Yami/raw/master/assets/screenshot-1.png" />
+<img src="https://github.com/houssaineamzil/Yami/raw/master/assets/screenshot-2.png" />
+<img src="https://github.com/houssaineamzil/Yami/raw/master/assets/screenshot-3.png" />
 
 ## Introduction
 
@@ -14,10 +14,10 @@ Yami is a dark, minimalist theme I created using my own imagination. It supports
 
 ## Installation
 
-- Install theme via [Marketplace](https://marketplace.visualstudio.com/items?itemName=Framer.framer-syntax)
+- Install theme via [Marketplace](https://marketplace.visualstudio.com/items?itemName=H.yami)
 - Launch Quick Open from within Visual Studio Code by pressing <kbd>cmd</kbd> <kbd>shift</kbd> <kbd>p</kbd>. 
 - Type `theme` and choose `Preferences: Color Theme`
-- Select the Framer Syntax Theme
+- Select the Framer Yami Theme
 
 Alternatively install via CLI:
 ```
