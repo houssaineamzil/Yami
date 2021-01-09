@@ -1,13 +1,25 @@
-# README
-## This is the README for your extension "yami"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+<p align="center">
+  <img src="https://github.com/houssaineamzil/Yami/raw/master/assets/logo.png" width="537" height="117.5"/>
+</p>
+<h1 align="center">Framer Syntax</h1>
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+<img src="https://github.com/houssaineamzil/Yami/raw/master/assets/screenshot-1.PNG" />
+<img src="https://github.com/houssaineamzil/Yami/raw/master/assets/screenshot-2.PNG" />
+<img src="https://github.com/houssaineamzil/Yami/raw/master/assets/screenshot-3.PNG" />
 
-**Enjoy!**
+## Introduction
+
+Yami is a dark, minimalist theme I created using my own imagination. It supports coding languages like HTML, CSS, JS, and JSON, giving you everything you need to build amazing products for the Web.
+
+## Installation
+
+- Install theme via [Marketplace](https://marketplace.visualstudio.com/items?itemName=Framer.framer-syntax)
+- Launch Quick Open from within Visual Studio Code by pressing <kbd>cmd</kbd> <kbd>shift</kbd> <kbd>p</kbd>. 
+- Type `theme` and choose `Preferences: Color Theme`
+- Select the Framer Syntax Theme
+
+Alternatively install via CLI:
+```
+code --install-extension Framer.framer-syntax
+```
